@@ -1,0 +1,13 @@
+# 6Companies30Days challenge - 02
+
+## Progress report
+
+<!-- | Day | Questions | Solutions |
+|---|---|---|
+| 1 | - [Find the Duplicate Number](https://github.com/yashlondhe90960/ReviseWithArsh-CrackYourPlacement/blob/main/287.%20Find%20the%20Duplicate%20Number/README.md)<br>- [Sort Colors](https://github.com/yashlondhe90960/ReviseWithArsh-CrackYourPlacement/blob/main/75.%20Sort%20Colors/README.md)<br>- [Remove Duplicates from Sorted Array](https://github.com/yashlondhe90960/ReviseWithArsh-CrackYourPlacement/blob/main/26.%20Remove%20Duplicates%20from%20Sorted%20Array/README.md) | ![Green marker](https://via.placeholder.com/15/00ff00/000000?text=+) [Solution 1](https://github.com/yashlondhe90960/ReviseWithArsh-CrackYourPlacement/blob/main/287.%20Find%20the%20Duplicate%20Number/solution.java)<br>![Green marker](https://via.placeholder.com/15/00ff00/000000?text=+) [Solution 2](https://github.com/yashlondhe90960/ReviseWithArsh-CrackYourPlacement/blob/main/75.%20Sort%20Colors/solution.java)<br>![Green marker](https://via.placeholder.com/15/00ff00/000000?text=+) [Solution 3](https://github.com/yashlondhe90960/ReviseWithArsh-CrackYourPlacement/blob/main/26.%20Remove%20Duplicates%20from%20Sorted%20Array/solution.java) |
+| 2 | - [Chocoloate Distribution Problem](https://github.com/yashlondhe90960/ReviseWithArsh-CrackYourPlacement/blob/main/Chocolate%20Distribution%20Problem/README.md)<br>- [Two Sum](https://github.com/yashlondhe90960/ReviseWithArsh-CrackYourPlacement/blob/main/1.%20Two%20Sum/README.md)<br>- [Best Time to Buy and Sell Stock II](https://github.com/yashlondhe90960/ReviseWithArsh-CrackYourPlacement/blob/main/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/README.md) | ![Green marker](https://via.placeholder.com/15/00ff00/000000?text=+) [Solution 1](https://github.com/yashlondhe90960/ReviseWithArsh-CrackYourPlacement/blob/main/Chocolate%20Distribution%20Problem/solution.java)<br>![Green marker](https://via.placeholder.com/15/00ff00/000000?text=+) [Solution 2](https://github.com/yashlondhe90960/ReviseWithArsh-CrackYourPlacement/blob/main/1.%20Two%20Sum/solution.java)<br>![Green marker](https://via.placeholder.com/15/00ff00/000000?text=+) [Solution 3](https://github.com/yashlondhe90960/ReviseWithArsh-CrackYourPlacement/blob/main/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/solution.java) | -->
+
+
+<!--| 2 | - [Question 1 Title](Link to Question 1 in your repo)<br>- [Question 2 Title](Link to Question 2 in your repo) | ![Green marker](https://via.placeholder.com/15/00ff00/000000?text=+) [Solution 1](Link to Solution 1 in your repo)<br>![Green marker](https://via.placeholder.com/15/00ff00/000000?text=+) [Solution 2](Link to Solution 2 in your repo) |
+| ... | ... | ... |
+-->
