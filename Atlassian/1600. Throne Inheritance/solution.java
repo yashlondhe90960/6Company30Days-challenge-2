@@ -43,7 +43,7 @@ class ThroneInheritance {
 
 class Person {
     private String name;
-    private List<Person> childeren;
+    private List<Person> children;
     private boolean isAlive;
 
     public Person(String name){
