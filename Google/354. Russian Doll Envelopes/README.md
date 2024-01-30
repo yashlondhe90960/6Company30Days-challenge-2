@@ -33,3 +33,7 @@ Output: 1
 
 - 1 <= envelopes.length <= 105
 - envelopes[i].length == 2
+
+
+### Follow up question?
+can you optimise it to O(n) time complexity
