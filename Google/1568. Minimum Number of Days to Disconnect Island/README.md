@@ -11,6 +11,9 @@ In one day, we are allowed to change any single land cell (1) into a water cell 
 Return the minimum number of days to disconnect the grid.
 
 
+
+
+
 Example 1:
 ![Alt](https://assets.leetcode.com/uploads/2021/12/24/land1.jpg)
 ```
